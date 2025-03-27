@@ -2,7 +2,6 @@
 
 ![liquid agent banner](/assets/LiquidAgentBanner.jpg)
 
-👽 Welcome to the Mothership.
 Liquid Agent is an autonomous AI coordination layer designed to power the next generation of decentralized systems.
 Modular. Intelligent. Always on.
 
