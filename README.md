@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a5646a5a-af6b-4715-aaec-6f436f067780)# 💧 Liquid OS: All Your Base Belong to Me
+# 💧 Liquid OS: All Your Base Belong to Me
 
 ![liquid OS banner](/assets/Liquid-OS.png)
 
