@@ -1,6 +1,6 @@
 # 💧 Liquid OS: All Your Base Belong to Me
 
-![liquid OS banner](/assets/LiquidOS.png)
+![liquid OS banner](/assets/Liquid-OS.png)
 
 👽 Welcome to the Mothership.
 Liquid Agent is an autonomous AI coordination layer designed to power the next generation of decentralized systems.
