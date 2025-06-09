@@ -29,7 +29,7 @@ Whether you're automating staking, swaps, liquidations, or interplanetary logic 
 Any and all contributions are greatly appreciated, so please do not hesitate to get involved ⚡  
 To get started, check out a few of the repos below:
 
-- [Liquid OS]([https://liquid-io.io](https://www.liquidagent.ai/))  
+- [Liquid Agent](https://www.liquidagent.ai/)  
 - [Documentation](https://docs.liquidagent.ai)  
 - [Twitter](https://x.com/LiquidAgentAI)  
 - [LinkedIn](https://www.linkedin.com/company/liquid-os)  
