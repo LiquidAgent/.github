@@ -1,6 +1,6 @@
 # 💧 Liquid Agent: The natural language layer for web3 autonomy.
 
-![liquid OS banner](/assets/Liquid-OS.png)
+![liquid OS banner](/assets/1500x500.jpeg)
 
 👽 Welcome to the Mothership.  
 Liquid OS is an autonomous AI coordination layer designed to power the next generation of decentralized systems.  
