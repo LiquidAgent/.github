@@ -57,7 +57,7 @@ Watchers and real-time execution for all supported protocols.
 **Frontend UX:**
 Modern dashboard for tracking, chatting, and interacting with your AI agent.
 
-##  Getting Started
+## 📖 Getting Started
 
 Any and all contributions are greatly appreciated, so please do not hesitate to get involved ⚡  
 To get started, check out a few of the repos below:
