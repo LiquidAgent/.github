@@ -43,7 +43,7 @@ Liquid Agent is modular by design.
 At its core you’ll find:
 
 **Prompt Modules:**
-Plug-and-play logic blocks for any workflow—easy to extend for staking, onramps, trading, and more.
+Plug-and-play logic blocks for any workflow easy to extend for staking, onramps, trading, and more.
 
 **AI Orchestration:**
 Integrates with OpenAI (or local LLMs) for natural language, intent parsing, and autonomous actions.
