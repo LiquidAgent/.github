@@ -7,8 +7,6 @@ Modular. Intelligent. Always on.
 
 This is not your average protocol logic. This is off‑world AI.
 
-This is not your average protocol logic. This is off‑world AI.
-
 ## 💧 What is Liquid Agent?  
 Liquid Agent is an intelligent system that brings real‑time, AI‑powered automation to any decentralized environment. Originally incubated as an internal tool, it has now evolved into a standalone framework that enables:
 
