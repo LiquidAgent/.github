@@ -1,4 +1,4 @@
-# 💧 Liquid Agent: The natural language layer for web3 autonomy.
+# Liquid Agent: The natural language layer for web3 autonomy.
 
 ![liquid Agent banner](/assets/1500x500.jpeg)
 
@@ -9,7 +9,7 @@ This is not your average protocol logic. This is off‑world AI.
 
 This is not your average protocol logic. This is off‑world AI.
 
-## What is Liquid Agent?  
+## 💧 What is Liquid Agent?  
 Liquid Agent is an intelligent system that brings real‑time, AI‑powered automation to any decentralized environment. Originally incubated as an internal tool, it has now evolved into a standalone framework that enables:
 
 -  **Autonomous Decision‑Making:** Reacts to on‑chain data, oracle updates, and time‑based triggers.
@@ -19,7 +19,7 @@ Liquid Agent is an intelligent system that brings real‑time, AI‑powered auto
 
 Whether you're automating staking, swaps, liquidations, or interplanetary logic flows — Liquid Agent is the backbone for your AI coordination layer.
 
-##  Key Features
+## ⚡️ Key Features
 **AI Agent Wallets:**
 Secure, sandboxed wallets managed by autonomous agents—send, receive, and schedule crypto across all supported chains.
 
