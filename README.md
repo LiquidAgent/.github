@@ -1,6 +1,6 @@
 # Liquid Agent: The natural language layer for web3 autonomy.
 
-![liquid Agent banner](/assets/1500x500.jpeg)
+![liquid Agent banner](/assets/NEW.jpg)
 
 Liquid Agent is an autonomous AI coordination layer designed to power the next generation of decentralized systems.  
 Modular. Intelligent. Always on.
