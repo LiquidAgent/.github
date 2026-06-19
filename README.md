@@ -1,6 +1,6 @@
 # Liquid Agent: The natural language layer for web3 autonomy.
 
-![Liquid Agent banner](/assets/X.png)
+![Liquid Agent banner](/assets/XX.png)
 
 **A dollar account that puts your money on autopilot.**
 
