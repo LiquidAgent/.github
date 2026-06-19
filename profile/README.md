@@ -1,6 +1,6 @@
 # Liquid Agent: The financial layer for Web3 simplicity.
 
-![liquid Agent banner](/assets/X.png)
+![liquid Agent banner](/assets/XX.png)
 
 Liquid Agent is an autonomous AI coordination layer designed to power the next generation of decentralized systems.  
 Modular. Intelligent. Always on.
