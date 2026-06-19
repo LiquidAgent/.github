@@ -1,4 +1,5 @@
-# Liquid Agent: The financial layer for Web3 simplicity.
+# Liquid Agent: Your money, working for you.
+On every chain.
 
 ![liquid Agent banner](/assets/XX.png)
 
