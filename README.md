@@ -1,68 +1,65 @@
-# Liquid Agent: The natural language layer for web3 autonomy.
+# Liquid Agent: The natural language layer for web3 autonomy.
 
-![liquid Agent banner](/assets/X.png)
+![Liquid Agent banner](/assets/X.png)
 
-Liquid Agent is an autonomous AI coordination layer designed to power the next generation of decentralized systems.  
-Modular. Intelligent. Always on.
+**A dollar account that puts your money on autopilot.**
 
-This is not your average protocol logic. This is off‑world AI.
+You hold dollars (kept as USDC, Circle's digital dollar) and from one balance your money
+earns yield, sends in seconds, buys tokenized stocks from $1, and spends on gift cards —
+with no gas, no seed phrase, and no networks to choose.
 
-## 💧 What is Liquid Agent?  
-Liquid Agent is an intelligent system that brings real‑time, AI‑powered automation to any decentralized environment. Originally incubated as an internal tool, it has now evolved into a standalone framework that enables:
+This isn't your average DeFi app. This is how crypto should feel.
 
--  **Autonomous Decision‑Making:** Reacts to on‑chain data, oracle updates, and time‑based triggers.
--  **Modular Prompts:** Swappable and extensible logic capsules for task‑specific decisions.
--  **Human‑AI Coordination:** Supports real‑time command execution and background monitoring.
--  **Real‑Time Actuation:** Built-in sockets, watchers, and agents that don’t sleep.
+## 💧 What is Liquid Agent?
 
-Whether you're automating staking, swaps, liquidations, or interplanetary logic flows — Liquid Agent is the backbone for your AI coordination layer.
+Liquid Agent turns the complexity of crypto into a single chain-abstracted dollar balance,
+built on **Circle Gateway**. The USDC you hold can be spent or minted on any supported chain
+on demand, so you never bridge, pick a network, or hold a separate gas token. Funds come in
+gaslessly and go out by signing one intent that settles in under a second.
 
-## ⚡️ Key Features
-**AI Agent Wallets:**
-Secure, sandboxed wallets managed by autonomous agents—send, receive, and schedule crypto across all supported chains.
+It's managed, not self-custodial: it's your money under your own address, never pooled with
+anyone else's, and you can withdraw to an external wallet anytime.
 
-**Unified Dashboard:**
-One place to track your portfolio, wallet history, and DeFi actions across Ethereum, PulseChain, Base, Avax, and more.
+## ⚡️ What you can do
 
-**Fiat Onramp Integration:**
-Buy crypto instantly with cards, PayPal, Apple Pay, and more (no hassle onboarding).
+- **Send** — Dollars to anyone, gasless. Now, scheduled, or on repeat (daily through monthly).
+  USDC arrives in seconds across whatever chain makes sense, in one atomic move. Free under $100.
+- **Save** — Earn yield on your dollars with no lock-up, withdraw anytime. A board of vetted
+  venues (Moonwell, Yo · yoUSD, Fluid), each showing its live APY. Performance fee on yield only.
+- **Invest** — Own tokenized stocks from $1 — SpaceX, Nvidia, Tesla, Coinbase, Circle, Nasdaq-100 —
+  backed 1:1 by the underlying share (Backed Finance xStocks, settled on Solana behind the scenes).
+- **Spend** — Turn your balance into real gift cards (Apple, Starbucks, Amazon) for yourself,
+  as a gift, or in bulk to up to 50 people.
+- **Insights** — See exactly how any wallet has traded an asset: every buy and sell, realized and
+  unrealized P/L, downloadable as PDF. Also a machine-payable API via **x402** at $0.25 per call.
 
-**Automated DeFi:**
-Stake, swap, and redeem in a few clicks—no manual signatures, no friction.
+## 🪙 The LIQUID token
 
-**Natural Language Chat:**
-Ask anything, get insights, automate tasks, and interact with your AI assistant like you would with a human.
+Holding or staking LIQUID lowers every fee in the app.
 
-**Real-Time Sockets & Watchers:**
-Live monitoring of on-chain activity, price feeds, and time-based events for instant AI-driven reactions.
+- Discount ladder: **30% off** at 10k, **50%** at 25k, **70%** at 100k (wallet + staked both count).
+- **Liquid License** — premium membership NFT (1 ETH, capped at 314): **90% off every fee**.
+- **Staking** earns ETH rewards, and the staked balance still counts toward your discount.
+- Contract: `0x11DFC652eb62c723ad8c2ae731FcEdE58aB07564` (Ethereum).
 
-## 📐 Architecture Overview
-Liquid Agent is modular by design.
-At its core you’ll find:
+## 📐 Under the hood
 
-**Prompt Modules:**
-Plug-and-play logic blocks for any workflow easy to extend for staking, onramps, trading, and more.
+- **Chain-abstracted balance** — one USDC balance spanning every Circle-supported chain via Circle Gateway.
+- **Gasless by default** — Paymaster self-sweeps and relayed signed authorizations; no gas token to hold.
+- **AI chat interface** — manage DeFi and wallet operations in plain conversation.
+- **Agent wallets** — programmable wallets for scheduled and recurring transactions, no seed phrase.
+- **Next.js dashboard** — portfolio analytics, history, contacts, and live charts.
 
-**AI Orchestration:**
-Integrates with OpenAI (or local LLMs) for natural language, intent parsing, and autonomous actions.
+## 📖 Get involved
 
-**Wallet Engine:**
-Agent wallets for every user, supporting EVM and cross-chain activity.
+Any and all contributions are greatly appreciated, so please do not hesitate to get involved ⚡
 
-**Socket/Event Layer:**
-Watchers and real-time execution for all supported protocols.
+- [Liquid Agent](https://www.liquidagent.ai/)
+- [Litepaper](https://litepaper.liquidagent.ai)
+- [Documentation](https://docs.liquidagent.ai)
+- [Twitter](https://x.com/LiquidAgentAI)
+- [LinkedIn](https://www.linkedin.com/company/liquid-os)
+- [Telegram](https://t.me/liquidagentai)
 
-**Frontend UX:**
-Modern dashboard for tracking, chatting, and interacting with your AI agent.
-
-## 📖 Getting Started
-
-Any and all contributions are greatly appreciated, so please do not hesitate to get involved ⚡  
-To get started, check out a few of the repos below:
-
-- [Liquid Agent](https://www.liquidagent.ai/)
-- [Litepaper](https://litepaper.liquidagent.ai)  
-- [Documentation](https://docs.liquidagent.ai)  
-- [Twitter](https://x.com/LiquidAgentAI)  
-- [LinkedIn](https://www.linkedin.com/company/liquid-os)  
-- [Telegram](https://t.me/liquidagentai)  
+> Yield is variable, not guaranteed, not a bank deposit, and not FDIC-insured. Invest is geo-gated
+> (currently restricted out of the US, Canada, UK, and Australia).
